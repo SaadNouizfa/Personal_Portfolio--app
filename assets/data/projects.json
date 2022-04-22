@@ -1,0 +1,121 @@
+[
+  {
+    "title": " Reconnaissance-facial-PCA",
+    "description": "une application qui permet de faire la reconnaissance faciale en utilisant l'algorithme ACP",
+
+    "projectImage": {
+      "src": "assets/images/reconnaissance_facial1.jpg",
+      "alt": "Reconnaissance-facial-PCA project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "Preview",
+      "url": "assets/images/reconnaissance_facial1.jpg"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": "https://github.com/SaadNouizfa/reconnaissance-facial-PCA"
+    },
+
+    "skills": [
+        "MATLAB",
+        "CSV",
+        "openCv"
+        
+    ]
+  },
+  {
+    "title": "Prise RDV",
+    "description": "Développement d'une application de prise de RDV basé sur l'architecture Client/Serveur (Durant mon stage assistant ingénieure)",
+
+    "projectImage": {
+      "src": "assets/images/prise_rdv.jpeg",
+      "alt": "Prise_RDV project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "confidential",
+      "url": "assets/images/Confidential-client-300x300.jpg"
+    },
+
+    "projectSourceCode": {
+      "description": "Private",
+      "url": ""
+    },
+
+    "skills": [
+        "Spring boot,Spring data,Hibernet",
+        "API REST,JWT",
+        "Mysql,Redis(NoSql)",
+        "VueJS",
+        "Http,Outh2",
+        "HTML, CSS, javascript",
+        "pattern MVC"
+    ]
+  },
+
+  {
+    "title": "Asservissement de Température",
+    "description": "Asservissement de Température via une résistance chauffante avec une IHM qui permet d'afficher la Température en temps réel",
+
+    "projectImage": {
+      "src": "assets/images/IHM.PNG",
+      "alt": "Asservissement_Température project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "Preview",
+      "url": "assets/images/IHM.PNG"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": ""
+    },
+
+    "skills": [
+        "C,python",
+        "PyQt5",
+        "Communication UART",
+        "STM32",
+        "Résistance chauffante"
+    ]
+  },
+
+  
+  {
+    "title": "Portefeuille personnel",
+    "description": "Portefeuille personnel de projets antérieurs et en cours",
+
+    "projectImage": {
+      "src": "assets/images/MyPortfolio.PNG",
+      "alt": "Portefeuille_personnel project screenshot"
+    },
+
+    "projectPreview": {
+      "description": "View",
+      "url": "https://lenzoburger.github.io/MyPortfolio/"
+    },
+
+    "projectSourceCode": {
+      "description": "View on Github",
+      "url": "https://github.com/lenzoburger/MyPortfolio"
+    },
+
+    "skills": [
+        "Angular 8",
+        "Node.Js",
+        "HTML, SASS/SCSS",
+        "CSS Grid, Bootstrap 4",
+        "JSON",
+        "Github Pages"
+    ]
+  }
+
+  
+
+  
+
+  
+]
